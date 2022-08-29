@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency>
+	<groupId>com.browserstack</groupId>
+	<artifactId>browserstack-local-java</artifactId>
+	<version>1.0.3</version>
+</dependency>
